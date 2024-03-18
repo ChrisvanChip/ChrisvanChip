@@ -1,10 +1,10 @@
 👋 Hi, Chris here!
 ---
 
-I am a hobbyist software engineer & web developer. 
+I am a hobbyist software engineer & web developer. Beside Dutch and English, I primarily speak JavaScript.
 
-⚙️ Currently working with HTML+CSS, JavaScript (+ node.js), Python and C#. 
+Active in a variety of projects, however closed-source. There'll once be a day where I give back to the OSS community ;)
 
-🌱 I'm currently learning the ins & outs of React and Vue. I've been using it more and more; it's honestly efficacious.
-
-📫 If you would like to contact me, you can send a request to **xChris_vC#1234** on Discord!
+### 📫 Contact Me
+**Email:** chris-gh@opdewolk.nl (preferred)<br>
+**Discord:** xChris_vC
